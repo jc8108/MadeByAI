@@ -49,3 +49,56 @@ Believe in yourself, and in your abilities
 Just hack it, just hack it
 You can be the greatest hacker of all time
 Just hack it, just hack it!
+
+## do it again but with more references to hacking, penetration testing and the dark web
+
+[Intro]
+Look, if you had one shot, one opportunity
+To penetrate the web like a hacker from the dark
+In one moment
+Would you seize it, or just let it spark?
+
+[Verse 1]
+Yo, his fingers are tapping, he's ready to go
+He's got his tools on his desk, ready to flow
+The keyboard's his weapon, the code's his game
+Penetrating networks, he's aiming for fame
+He's a pro, a master, a hacker from the dark
+He knows the web better than any security guard
+But the challenge is on, the clock is ticking
+He's facing firewalls, passwords, and encryption
+
+[Chorus]
+Snap back to reality, oh there goes his anonymity
+Oh, there goes his identity, he's hacked, it's insanity
+But he's got one shot, one opportunity
+To penetrate everything he ever wanted
+One moment, will he seize it, or just let it slip?
+
+[Verse 2]
+He's a penetration tester, hired by the best
+To break into systems, put them to the test
+He's got his tools, his skills, his brains
+He's breaking down doors, leaving no remains
+He's diving deep into the dark web
+Where the hackers are lurking, waiting to stab
+But he's not afraid, he's got his plan
+To find the loopholes, and make a stand
+
+[Chorus]
+Snap back to reality, oh there goes his anonymity
+Oh, there goes his identity, he's hacked, it's insanity
+But he's got one shot, one opportunity
+To penetrate everything he ever wanted
+One moment, will he seize it, or just let it slip?
+
+[Outro]
+You can do anything you set your mind to, man
+Just hack it, just hack it
+You gotta be willing to take risks, to break the rules
+Just hack it, just hack it
+Believe in yourself, and in your abilities
+Just hack it, just hack it
+You can be the greatest hacker of all time
+Just hack it, just hack it!
+
