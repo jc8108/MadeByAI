@@ -9,3 +9,5 @@ reggy.py -- ## create a python program that asks for an example string or string
 whatregex.py -- ##  write a python program that takes a regular expression as input and outputs examples of what that regular expression could be
 
 dorks.py -- ## write a python program that takes input and then does google dorking with all the different parameters and puts the output into a text file called dorks.txt
+
+typ0.py -- ## create a script that takes a domain name as input and creates a list of potential typo-squatting domains
