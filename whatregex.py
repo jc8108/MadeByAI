@@ -1,4 +1,5 @@
 # write a python program that takes a regular expression as input and outputs examples of what that regular expression could be
+# TESTED! does not work haha issue is with main function, have not fully debugged
 
 import re
 import random
@@ -17,6 +18,6 @@ def generate_examples(regex, num_examples=10):
     return examples
 
 # Example usage:
-regex = input()
+regex = input("Enter regular expression to evaluate:\n") #I changed this to specify what the program wants you to do
 examples = generate_examples(regex)
 print(examples)
