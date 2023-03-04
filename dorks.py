@@ -1,5 +1,6 @@
 ## write a python program that takes input and then does google dorking with all the different parameters and puts the output into a text file called dorks.txt
-## UNTESTED 
+## UNTESTED
+# pip install googlesearch-python
 
 import googlesearch
 
